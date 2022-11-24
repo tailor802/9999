@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxd0cfd5dd051fc5a9",
+# 公众号appSecret
+"app_secret": "5429339908b3d9a6f5936838d871bebc",
+# 模板消息id
+"template_id": "hSquE58WLlssUOeJ7hmCNzUF76ScIwW5KULiJiQLkvM",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["o1mEI6j5O1K28uAqEV_H3KO7tHMg","o1mEI6lTrwyqEp-baV4WNISA8sJ8"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "3f2950f72ccd4f2ab581d4568edd8ff7",
+# 天行数据apikey
+"tian_api": "ac269f59ed3b04464b7b4a9e86f14d02",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "益阳",
+# 生日
+"birthday1": {"name": "njc", "birthday": "2005-03-07"},
+# 在一起的日子，格式同上
+"love_date": "2023-01-06",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "姐就是女王自信放光芒",
+# 金句英文
+"note_en": "I am the queen of confidence shine"
+}
